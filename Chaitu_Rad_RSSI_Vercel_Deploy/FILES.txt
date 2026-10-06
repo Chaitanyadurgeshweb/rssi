@@ -1,0 +1,5 @@
+Ready-to-deploy Vercel package:
+- index.html
+- vercel.json
+- supabase/border_limits_setup.sql
+- README_DEPLOY.txt
